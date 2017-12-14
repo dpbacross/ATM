@@ -1,0 +1,6 @@
+/Users/davidpena/RiderProjects/CrossATM/CrossATM/bin/Debug/CrossATM.exe
+/Users/davidpena/RiderProjects/CrossATM/CrossATM/bin/Debug/CrossATM.pdb
+/Users/davidpena/RiderProjects/CrossATM/CrossATM/obj/Debug/CrossATM.csprojResolveAssemblyReference.cache
+/Users/davidpena/RiderProjects/CrossATM/CrossATM/obj/Debug/CrossATM.csproj.CoreCompileInputs.cache
+/Users/davidpena/RiderProjects/CrossATM/CrossATM/obj/Debug/CrossATM.exe
+/Users/davidpena/RiderProjects/CrossATM/CrossATM/obj/Debug/CrossATM.pdb
